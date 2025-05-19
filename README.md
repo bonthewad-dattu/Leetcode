@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Linked List
 |  |
