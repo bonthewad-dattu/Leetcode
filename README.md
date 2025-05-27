@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bonthewad-dattu/Leetcode/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
