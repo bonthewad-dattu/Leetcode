@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/bonthewad-dattu/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bonthewad-dattu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
