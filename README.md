@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0836-race-car](https://github.com/bonthewad-dattu/Leetcode/tree/master/0836-race-car) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Two Pointers
 |  |
