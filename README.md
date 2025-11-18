@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bonthewad-dattu/Leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/bonthewad-dattu/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
