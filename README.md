@@ -110,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bonthewad-dattu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bonthewad-dattu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/bonthewad-dattu/Leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bonthewad-dattu/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/bonthewad-dattu/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Sorting
 |  |
 | ------- |
