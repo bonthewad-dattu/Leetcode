@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/bonthewad-dattu/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
