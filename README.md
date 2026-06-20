@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bonthewad-dattu/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bonthewad-dattu/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bonthewad-dattu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
