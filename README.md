@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bonthewad-dattu/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0812-rotate-string) |
+| [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Dynamic Programming
