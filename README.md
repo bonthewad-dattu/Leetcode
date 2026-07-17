@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bonthewad-dattu/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
