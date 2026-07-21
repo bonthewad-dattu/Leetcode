@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/bonthewad-dattu/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/bonthewad-dattu/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0509-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-race-car](https://github.com/bonthewad-dattu/Leetcode/tree/master/0836-race-car) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bonthewad-dattu/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
