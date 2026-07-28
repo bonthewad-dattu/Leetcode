@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bonthewad-dattu/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bonthewad-dattu/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
+| [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bonthewad-dattu/Leetcode/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
