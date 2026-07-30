@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/bonthewad-dattu/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Dynamic Programming
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
