@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/bonthewad-dattu/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/bonthewad-dattu/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
