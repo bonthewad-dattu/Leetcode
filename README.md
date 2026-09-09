@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/bonthewad-dattu/Leetcode/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0812-rotate-string) |
