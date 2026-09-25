@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/bonthewad-dattu/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/bonthewad-dattu/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/bonthewad-dattu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
