@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bonthewad-dattu/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bonthewad-dattu/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bonthewad-dattu/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bonthewad-dattu/Leetcode/tree/master/0326-power-of-three) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bonthewad-dattu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0344-reverse-string) |
