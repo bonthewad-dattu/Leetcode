@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/bonthewad-dattu/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bonthewad-dattu/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/bonthewad-dattu/Leetcode/tree/master/1154-day-of-the-year) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bonthewad-dattu/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
+| [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
+| [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
