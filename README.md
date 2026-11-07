@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bonthewad-dattu/Leetcode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/bonthewad-dattu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bonthewad-dattu/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/bonthewad-dattu/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
