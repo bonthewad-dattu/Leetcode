@@ -1,7 +1,7 @@
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
         product=1
-        l1=[]
+        result=[]
         zero_count=0
         for i in range(0,len(nums)):
             if nums[i]!=0:
@@ -11,15 +11,15 @@ class Solution:
         if zero_count==1:
             for j in nums:
                 if j!=0:
-                    l1.append(0)
+                    result.append(0)
                 else:
-                    l1.append(product)
-            return l1
+                    result.append(product)
+            return result
         elif(zero_count>1):
             for j in nums:
-                l1.append(0)
-            return l1
+                result.append(0)
+            return result
         else:
             for i in nums:
-                l1.append(product//i)
-            return l1
+                result.append(product//i)
+            return result
