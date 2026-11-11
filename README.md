@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/bonthewad-dattu/Leetcode/tree/master/1534-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/bonthewad-dattu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/bonthewad-dattu/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/bonthewad-dattu/Leetcode/tree/master/1534-count-good-triplets) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
