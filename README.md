@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/bonthewad-dattu/Leetcode/tree/master/0661-image-smoother) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/bonthewad-dattu/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/bonthewad-dattu/Leetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/bonthewad-dattu/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/bonthewad-dattu/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bonthewad-dattu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bonthewad-dattu/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bonthewad-dattu/Leetcode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/bonthewad-dattu/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/bonthewad-dattu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
@@ -350,4 +352,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bonthewad-dattu/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bonthewad-dattu/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
