@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bonthewad-dattu/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/bonthewad-dattu/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/bonthewad-dattu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/bonthewad-dattu/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/bonthewad-dattu/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bonthewad-dattu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/bonthewad-dattu/Leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/bonthewad-dattu/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-race-car](https://github.com/bonthewad-dattu/Leetcode/tree/master/0836-race-car) |
 | [0877-stone-game](https://github.com/bonthewad-dattu/Leetcode/tree/master/0877-stone-game) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bonthewad-dattu/Leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/bonthewad-dattu/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/bonthewad-dattu/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/bonthewad-dattu/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/bonthewad-dattu/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/bonthewad-dattu/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
