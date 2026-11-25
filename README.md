@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bonthewad-dattu/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0189-rotate-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bonthewad-dattu/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/bonthewad-dattu/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
