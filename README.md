@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/bonthewad-dattu/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/bonthewad-dattu/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bonthewad-dattu/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/bonthewad-dattu/Leetcode/tree/master/0648-replace-words) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/bonthewad-dattu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/bonthewad-dattu/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bonthewad-dattu/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/bonthewad-dattu/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/bonthewad-dattu/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bonthewad-dattu/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bonthewad-dattu/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bonthewad-dattu/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bonthewad-dattu/Leetcode/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bonthewad-dattu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Trie
 |  |
 | ------- |
